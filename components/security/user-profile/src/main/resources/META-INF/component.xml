@@ -41,6 +41,10 @@
             <ResourceId>/permission/UIModulePermission/edit-subscription</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
+            <DisplayName>User Mask</DisplayName>
+            <ResourceId>/permission/UIModulePermission/user-mask</ResourceId>
+        </ManagementPermission>
+        <ManagementPermission>
             <DisplayName>Quota</DisplayName>
             <ResourceId>/permission/UIModulePermission/quota</ResourceId>
         </ManagementPermission>
